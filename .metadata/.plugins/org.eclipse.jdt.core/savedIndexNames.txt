@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\Monika\Desktop\DCS_LAB\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1696264553.index
+2168009878.index
+248616442.index
+4041247542.index
