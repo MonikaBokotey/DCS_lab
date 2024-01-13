@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Fuzzy.Fuzzytoken&apos; to &apos;FuzzyToken&apos;&#x0D;&#x0A;- Original project: &apos;laborator2_net&apos;&#x0D;&#x0A;- Original element: &apos;Fuzzy.Fuzzytoken&apos;&#x0D;&#x0A;- Renamed element: &apos;Fuzzy.FuzzyToken&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Fuzzytoken&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Fuzzy{Fuzzytoken.java[Fuzzytoken" matchStrategy="1" name="FuzzyToken" qualified="false" references="true" similarDeclarations="false" stamp="1700662577379" textual="false" version="1.0"/>
+</session>

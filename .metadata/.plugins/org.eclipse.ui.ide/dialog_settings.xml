@@ -6,7 +6,11 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\Monika\Desktop\DCS_LAB\oetpn_framework"/>
+			<item value="C:\Users\Monika\Desktop\DCS_LAB\framework"/>
 			<item value="C:\Users\Monika\Desktop\DCS_LAB\laborator2_net"/>
 		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
 	</section>
 </section>
